@@ -1,0 +1,7 @@
+﻿  a1ms3.c
+  clinic.c
+C:\Users\QINGx\Desktop\MS3\clinic.c(869,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  core.c
+C:\Users\QINGx\Desktop\MS3\core.c(149,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ms3.vcxproj -> C:\Users\QINGx\Desktop\MS3\x64\Debug\ms3.exe
